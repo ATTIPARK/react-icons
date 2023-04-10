@@ -1,1 +1,7 @@
-# Create React App with Tailwind CSS
+# React Icons
+
+1. "first commit"
+   Weather.jsx
+
+2. "Chat"
+   Chat.jsx
